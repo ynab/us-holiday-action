@@ -13,5 +13,5 @@ branding:
   icon: 'tag'
   color: 'blue'
 runs:
-  using: 'node16'
+  using: 'node24'
   main: 'index.js'
